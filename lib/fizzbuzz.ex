@@ -29,6 +29,7 @@ defmodule Fizzbuzz do
         # if number is multiple of 5
         rem(n, 5) == 0 -> "Buzz"
 
+        # if number is not either multiple of 3 or 5
         true -> n
       end
     end
