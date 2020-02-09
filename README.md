@@ -8,24 +8,24 @@ For numbers which are multiples of both 3 and 5, print "FizzBuzz" instead of the
 
 ```bash
 iex> Fizzbuzz.multiples(20)
-    1
-	2
-	Fizz
-	4
-	buzz
-	Fizz
-	7
-	8
-	Fizz
-	buzz
-	11
-	Fizz
-	13
-	14
-	Fizzbuzz
-	16
-	17
-	Fizz
-	19
-	buzz
+1
+2
+Fizz
+4
+buzz
+Fizz
+7
+8
+Fizz
+buzz
+11
+Fizz
+13
+14
+Fizzbuzz
+16
+17
+Fizz
+19
+buzz
 ```
