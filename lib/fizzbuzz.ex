@@ -4,11 +4,11 @@ defmodule Fizzbuzz do
   """
 
   @doc """
-  Write an Elixir application that outputs FizBuzz starting from 1 every 2 seconds
+  Write an Elixir application that outputs Fizzbuzz starting from 1 every 2 seconds
 
   For each multiple of 3, print "Fizz" instead of the number. 
-  For each multiple of 5, print "Buzz" instead of the number. 
-  For numbers which are multiples of both 3 and 5, print "FizzBuzz" instead of the number.
+  For each multiple of 5, print "buzz" instead of the number. 
+  For numbers which are multiples of both 3 and 5, print "Fizzbuzz" instead of the number.
 
   ## Examples
 
